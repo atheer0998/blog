@@ -1,9 +1,9 @@
-# site settings
+# Site settings
 title: Great New Blog Title
 author:
-  name: Atheer Alotaibii
-  email: atheer@promoe.com.sa
-  Description: "This is my first test."
- 
- # Build settings
- remote_theme: jekyll/minima
+  name: Evan Will
+  email: your-email@domain.com
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
