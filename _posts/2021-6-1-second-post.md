@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My second Jekyll Post
+title:أول اسبوع
 tags: second markdown example
 categories: demo
 ---
