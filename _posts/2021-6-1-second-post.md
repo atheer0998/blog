@@ -1,6 +1,6 @@
 ---
 layout: post
-title:My second post
+title: "أول اسبوع"
 tags: second markdown example
 categories: demo
 ---
