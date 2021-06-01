@@ -1,9 +1,9 @@
 # Site settings
-title: Great New Blog Title
+title: Atheer Alotaibi Blog
 author:
-  name: Evan Will
-  email: your-email@domain.com
-description: "Great site about Jekyll on GH-Pages."
+  name: Atheer Alotaibi
+  email: atheer@promoe.com.sa
+description: "This is my first test."
 
 # Build settings
 remote_theme: jekyll/minima
