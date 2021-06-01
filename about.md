@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-## My about page
+## نبذه عن التدوينه 
 
-This is my first blog test using hithub pages and jekyll
+هذه اول تدوينه لي باستخدام jekyll github pages
 
