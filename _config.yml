@@ -1,9 +1,9 @@
 # Site settings
-title: Atheer Alotaibi Blog
+title: مدونه اثير العتيبي 
 author:
   name: Atheer Alotaibi
   email: atheer@promoe.com.sa
-description: "اول مدونه شخصيه لاثير "
+description: اول مدونه شخصيه لاثير 
 
 # Build settings
 remote_theme: jekyll/minima
