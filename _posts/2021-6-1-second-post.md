@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Second post
+title: الاسبوع الاول
 tags: second markdown example
 categories: demo
 ---
