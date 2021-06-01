@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-## نبذه عن التدوينه 
+## about 
 
 هذه اول تدوينه لي باستخدام jekyll github pages
 
