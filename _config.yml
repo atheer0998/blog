@@ -1,0 +1,9 @@
+# site settings
+title: Atheers' blog
+author:
+  name: Atheer Alotaibi
+  email: atheer.promoe.com.sa
+ Description: "This is my first test."
+ 
+ # Build settings
+ remote_theme: jekyll/minima
