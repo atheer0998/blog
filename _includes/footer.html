@@ -25,9 +25,10 @@
       {%- endif %}
       </div>
       <div class="footer-col">
-        <ul> 
+        <ul>
+          {{ site.data.db.words }}
          {% for k in site.data.words.key %}
-         <li> {{ k }}</li>
+         <li> {{ k.key }}</li>
          {% endfor %}
        </ul>
       </div>
