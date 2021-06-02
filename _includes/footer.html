@@ -3,7 +3,6 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-
     <div class="footer-col-wrapper">
       <div class="footer-col">
         <p class="feed-subscribe">
@@ -23,8 +22,8 @@
           {%- endif %}
         </ul>
       {%- endif %}
-      </div>
-      <div class="footer-col">
+        
+           <div class="footer-col">
             {{ site.data.db.words }}
          <ul>
          {% for k in site.data.words %}
@@ -32,6 +31,8 @@
          {% endfor %}
              </ul>
     </div>
+      </div>
+     
       </div>
 
     <div class="social-links">
