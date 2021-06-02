@@ -1,26 +1,71 @@
 {
-"words" : [
-  "Jekyll",
-           "Blog",
-           "Atheer",
-           "Alotaibi",
-           "Computer",
-           "Design", 
-           "Programming", 
-           "Coding", 
-           "Scripting", 
-           "Css", 
-           "Html", 
-           "Json", 
-           "Javascript", 
-           "Js",
-           "Java",
-           "C++", 
-           "Science", 
-           "Promotion",
-           "Efficiwncy",
-           "Khobar", 
-           "Deets",
-           "Pro"
-]
+
+ "words": [
+      {
+        "key": "Jekyll",
+      },
+       {
+        "key": "Blog",
+      },
+     {
+        "key": "Atheer",
+      },
+     {
+        "key": "Alotaibi",
+      },
+     {
+        "key": "computer",
+      },
+     {
+        "key": "Design",
+      },
+     {
+        "key": "Programming",
+      },
+     {
+        "key": "Coding",
+      },
+     {
+        "key": "Scripting",
+      },
+     {
+        "key": "Css",
+      },
+     {
+        "key": "Html",
+      },
+     {
+        "key": "Json",
+      },
+     {
+        "key": "Javascript",
+      },
+     {
+        "key": "Js",
+      },
+     {
+        "key": "Java",
+      },
+     {
+        "key": "C++",
+      },
+     {
+        "key": "Science",
+      },
+     {
+        "key": "Promotion",
+      },
+     {
+        "key": "Efficiency",
+      },
+     {
+        "key": "Khobar",
+      },
+     {
+        "key": "Deets",
+      },
+     {
+        "key": "Pro",
+      }
+   ]
 }
