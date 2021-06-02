@@ -27,7 +27,7 @@
             {{ site.data.db.words }}
          <ul>
          {% for k in site.data.words %}
-            <li>{{ k }}</li>
+            <li>{{ k | escape }}</li>
          {% endfor %}
              </ul>
     </div>
