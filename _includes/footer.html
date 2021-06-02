@@ -25,9 +25,9 @@
         
            <div class="footer-col">
             {{ site.data.db.words }}
-         <ul>
+         <ul class="row list-unstyled p-0>
          {% for k in site.data.words %}
-            <li>{{ k | escape }}</li>
+            <li class="col-md-4 pb-3 m-0">{{ k[0] | escape }}</li>
          {% endfor %}
              </ul>
     </div>
