@@ -23,11 +23,9 @@
         </ul>
       {%- endif %}
            <div class="footer-col">
-         <ul class="row list-unstyled p-0>
+         <ul>
          {% for k in site.data.words %}
-            <li class="col-md-4 pb-3 m-0">
-                {{ k[0] | escape }}
-               </li>
+            <li> {{ k[0] | escape }}  </li>
          {% endfor %}
              </ul>
     </div>
