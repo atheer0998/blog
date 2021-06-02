@@ -34,9 +34,9 @@
     </div>
      <div class="keywords">
        <ul> 
-         {% for key in site.assets.files.database $}
+         {%- for key in site.assets.files.database $}
          <li> key.keywords </li>
-         {% endfor %}
+         {% endfor -%}
        </ul>
  
       </div>
