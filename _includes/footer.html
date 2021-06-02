@@ -28,12 +28,12 @@
          <ul>
           {{ site.data.db.words }}
          {% for k in site.data.words %}
-            <li> {{ k }} </li>
+            <li> {{ k | escape }} </li>
          {% endfor %}
              </ul>
     
-      </div>
     </div>
+      </div>
 
     <div class="social-links">
       {%- include social.html -%}
