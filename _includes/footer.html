@@ -25,6 +25,7 @@
            <div class="footer-col">
              
          <ul>
+           {{site.data.words}}
          {% for k in site.data.words %}
             <li> {{ k | escape }}  </li>
          {% endfor %}
