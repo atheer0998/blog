@@ -3,4 +3,5 @@ layout: post
 title: الأسبوع الرابع 
 ---
 في اسبوعي الرابع كمتدربه لدى كفاءه العرض قمت ببناء ابلكيشن مهام باستخدام فايربيس كقاعده بيانات بتتبع مقطع اليوتيوب 
-[YouTube] (https://www.youtube.com/watch?v=aZrlNH9h_w0)
+
+`video: https://www.youtube.com/watch?v=aZrlNH9h_w0`
